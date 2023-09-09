@@ -1,0 +1,7 @@
+The following packages are required for the employee management system:
+pip install mysqlclient
+pip install mysql-connector-python
+pip install pymysql
+
+
+
